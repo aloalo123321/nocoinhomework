@@ -1,0 +1,40 @@
+.satauri {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.emaili {
+  display: flex;
+}
+.nomeri {
+  display: flex;
+}
+.Education {
+  display: flex;
+  justify-content: center;
+}
+.University {
+  display: flex;
+}
+.work{
+  display: flex;
+  justify-content: center;
+}
+.skils{
+  display: flex;
+  justify-content: center;
+}
+span{
+  color: #0066cc;
+}
+.redcol{
+  color: red;
+}
+.input{
+  height: 10vh;
+  width: 50vh;
+}
+.feedback{
+  display: flex;
+  justify-content: center;
+}
